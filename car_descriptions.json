@@ -1,0 +1,466 @@
+[
+    {
+        "name": "Peugeot 208",
+        "brand": "Peugeot",
+        "model": "208",
+        "engine": "Petrol",
+        "motorisation": "PureTech 100",
+        "horsepower": 100,
+        "autonomie_km": 860,
+        "consommation": {
+            "l_100km": 5.2,
+            "kWh_100km": 55
+        },
+        "type": "Citadine",
+        "prix_estime": 23000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "Peugeot 3008",
+        "brand": "Peugeot",
+        "model": "3008",
+        "engine": "Hybrid",
+        "motorisation": "Hybrid 225",
+        "horsepower": 130,
+        "autonomie_km": 900,
+        "consommation": {
+            "l_100km": 6.0,
+            "kWh_100km": 42
+        },
+        "type": "SUV",
+        "prix_estime": 37000,
+        "annee_sortie": 2021
+    },
+    {
+        "name": "Citroen C3",
+        "brand": "Citroen",
+        "model": "C3",
+        "engine": "Petrol",
+        "motorisation": "PureTech 110",
+        "horsepower": 110,
+        "autonomie_km": 1100,
+        "consommation": {
+            "l_100km": 5.6,
+            "kWh_100km": 55
+        },
+        "type": "Citadine",
+        "prix_estime": 19000,
+        "annee_sortie": 2021
+    },
+    {
+        "name": "Renault Megane",
+        "brand": "Renault",
+        "model": "Megane",
+        "engine": "Diesel",
+        "motorisation": "TCe 140",
+        "horsepower": 140,
+        "autonomie_km": 960,
+        "consommation": {
+            "l_100km": 6.0,
+            "kWh_100km": 52
+        },
+        "type": "Compacte",
+        "prix_estime": 27000,
+        "annee_sortie": 2021
+    },
+    {
+        "name": "Fiat 500e",
+        "brand": "Fiat",
+        "model": "500e",
+        "engine": "Eletric",
+        "motorisation": "EV 118 ch",
+        "horsepower": 118,
+        "autonomie_km": 320,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 13.0
+        },
+        "type": "Citadine",
+        "prix_estime": 30000,
+        "annee_sortie": 2021
+    },
+    {
+        "name": "Maserati Grecale Folgore",
+        "brand": "Maserati",
+        "model": "Grecale Folgore",
+        "engine": "Eletric",
+        "motorisation": "2 moteurs 542 ch",
+        "horsepower": 542,
+        "autonomie_km": 394,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 23.6
+        },
+        "type": "SUV",
+        "prix_estime": 110000,
+        "annee_sortie": 2025
+    },
+    {
+        "name": "Renault Mégane E-Tech",
+        "brand": "Renault",
+        "model": "Mégane E-Tech",
+        "engine": "Eletric",
+        "motorisation": "EV 220 ch",
+        "horsepower": 220,
+        "autonomie_km": 450,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.5
+        },
+        "type": "Compacte",
+        "prix_estime": 39000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "Peugeot e-208",
+        "brand": "Peugeot",
+        "model": "e-208",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 410,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.5
+        },
+        "type": "Citadine",
+        "prix_estime": 35300,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "Peugeot e-3008",
+        "brand": "Peugeot",
+        "model": "e-3008",
+        "engine": "Eletric",
+        "motorisation": "EV 210-320 ch",
+        "horsepower": 210,
+        "autonomie_km": 525,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 16.8
+        },
+        "type": "SUV",
+        "prix_estime": 48000,
+        "annee_sortie": 2024
+    },
+    {
+        "name": "Citroen ë-C4",
+        "brand": "Citroen",
+        "model": "ë-C4",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 420,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.0
+        },
+        "type": "Berline compacte",
+        "prix_estime": 39000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "Citroen Ami",
+        "brand": "Citroen",
+        "model": "Ami",
+        "engine": "Eletric",
+        "motorisation": "8 ch EV",
+        "horsepower": 8,
+        "autonomie_km": 75,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 7.0
+        },
+        "type": "Quadricycle",
+        "prix_estime": 7900,
+        "annee_sortie": 2020
+    },
+    {
+        "name": "DS 3 E-Tense",
+        "brand": "DS",
+        "model": "3 E-Tense",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 400,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.6
+        },
+        "type": "SUV urbain",
+        "prix_estime": 41000,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "DS 4 E-Tense",
+        "brand": "DS",
+        "model": "4 E-Tense",
+        "engine": "Hybrid",
+        "motorisation": "PHEV 225 ch",
+        "horsepower": 225,
+        "autonomie_km": 55,
+        "consommation": {
+            "l_100km": 1.3,
+            "kWh_100km": 16.0
+        },
+        "type": "Compacte",
+        "prix_estime": 42000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "DS 7 E-Tense",
+        "brand": "DS",
+        "model": "7 E-Tense",
+        "engine": "Hybrid",
+        "motorisation": "PHEV 300 ch",
+        "horsepower": 300,
+        "autonomie_km": 57,
+        "consommation": {
+            "l_100km": 1.3,
+            "kWh_100km": 16.5
+        },
+        "type": "SUV",
+        "prix_estime": 52000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "DS 9 E-Tense",
+        "brand": "DS",
+        "model": "9 E-Tense",
+        "engine": "Hybrid",
+        "motorisation": "PHEV 360 ch",
+        "horsepower": 360,
+        "autonomie_km": 59,
+        "consommation": {
+            "l_100km": 1.3,
+            "kWh_100km": 17.0
+        },
+        "type": "Berline",
+        "prix_estime": 65000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "Fiat 600e",
+        "brand": "Fiat",
+        "model": "600e",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 406,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.2
+        },
+        "type": "SUV urbain",
+        "prix_estime": 36000,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "Jeep Avenger EV",
+        "brand": "Jeep",
+        "model": "Avenger EV",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 400,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.5
+        },
+        "type": "SUV urbain",
+        "prix_estime": 37000,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "Opel Mokka-e",
+        "brand": "Opel",
+        "model": "Mokka-e",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 403,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.8
+        },
+        "type": "SUV urbain",
+        "prix_estime": 36500,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "Opel Corsa-e",
+        "brand": "Opel",
+        "model": "Corsa-e",
+        "engine": "Eletric",
+        "motorisation": "EV 136 ch",
+        "horsepower": 136,
+        "autonomie_km": 357,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 16.0
+        },
+        "type": "Citadine",
+        "prix_estime": 34000,
+        "annee_sortie": 2021
+    },
+    {
+        "name": "Opel Astra Electric",
+        "brand": "Opel",
+        "model": "Astra Electric",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 418,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.7
+        },
+        "type": "Compacte",
+        "prix_estime": 39000,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "Peugeot e-2008",
+        "brand": "Peugeot",
+        "model": "e-2008",
+        "engine": "Eletric",
+        "motorisation": "EV 156 ch",
+        "horsepower": 156,
+        "autonomie_km": 406,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 15.6
+        },
+        "type": "SUV urbain",
+        "prix_estime": 38000,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "Citroen ë-Berlingo",
+        "brand": "Citroen",
+        "model": "ë-Berlingo",
+        "engine": "Eletric",
+        "motorisation": "EV 136 ch",
+        "horsepower": 136,
+        "autonomie_km": 280,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 19.0
+        },
+        "type": "Ludospace",
+        "prix_estime": 35000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "Fiat E-Ulysse",
+        "brand": "Fiat",
+        "model": "E-Ulysse",
+        "engine": "Eletric",
+        "motorisation": "EV 136 ch",
+        "horsepower": 136,
+        "autonomie_km": 330,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 21.0
+        },
+        "type": "Monospace",
+        "prix_estime": 55000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "Peugeot e-Rifter",
+        "brand": "Peugeot",
+        "model": "e-Rifter",
+        "engine": "Eletric",
+        "motorisation": "EV 136 ch",
+        "horsepower": 136,
+        "autonomie_km": 280,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 19.0
+        },
+        "type": "Ludospace",
+        "prix_estime": 36000,
+        "annee_sortie": 2022
+    },
+    {
+        "name": "Jeep Recon EV",
+        "brand": "Jeep",
+        "model": "Recon EV",
+        "engine": "Eletric",
+        "motorisation": "EV ~600 ch",
+        "horsepower": 600,
+        "autonomie_km": 500,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 20.0
+        },
+        "type": "SUV tout-terrain",
+        "prix_estime": 70000,
+        "annee_sortie": 2025
+    },
+    {
+        "name": "Jeep Wagoneer S",
+        "brand": "Jeep",
+        "model": "Wagoneer S",
+        "engine": "Eletric",
+        "motorisation": "EV 600 ch",
+        "horsepower": 600,
+        "autonomie_km": 600,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 22.0
+        },
+        "type": "SUV premium",
+        "prix_estime": 80000,
+        "annee_sortie": 2025
+    },
+    {
+        "name": "Maserati GranTurismo Folgore",
+        "brand": "Maserati",
+        "model": "GranTurismo Folgore",
+        "engine": "Eletric",
+        "motorisation": "3 moteurs 761 ch",
+        "horsepower": 761,
+        "autonomie_km": 450,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 22.5
+        },
+        "type": "Coupé sportif",
+        "prix_estime": 200000,
+        "annee_sortie": 2023
+    },
+    {
+        "name": "Maserati MC20 Folgore",
+        "brand": "Maserati",
+        "model": "MC20 Folgore",
+        "engine": "Eletric",
+        "motorisation": "EV ~760 ch",
+        "horsepower": 760,
+        "autonomie_km": 450,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 23.0
+        },
+        "type": "Supercar",
+        "prix_estime": 250000,
+        "annee_sortie": 2025
+    },
+    {
+        "name": "Opel Zafira-e Life",
+        "brand": "Opel",
+        "model": "Zafira-e Life",
+        "engine": "Eletric",
+        "motorisation": "EV 136 ch",
+        "horsepower": 136,
+        "autonomie_km": 330,
+        "consommation": {
+            "l_100km": null,
+            "kWh_100km": 21.0
+        },
+        "type": "Monospace",
+        "prix_estime": 56000,
+        "annee_sortie": 2022
+    }
+]
