@@ -22,23 +22,27 @@ inventory = [
 ]
 
 global car_descriptions
-car_descriptions = json.load(open('car_descriptions.json'))
+with open('car_descriptions.json', 'r', encoding="utf-8") as f:
+    car_descriptions = json.load(f)
 
 
 def print_client_support():
     global inventory, fake
     state = fake.state_abbr()
     car_model = fake.random_element(elements=inventory)
+
     car_horsepower = next((car["horsepower"] for car in car_descriptions if car["name"] == car_model), None)
     car_engine = next((car["engine"] for car in car_descriptions if car["name"] == car_model), None)
     car_brand = next((car["brand"] for car in car_descriptions if car["name"] == car_model), None)
+    sell_price = next((car["prix_estime"] for car in car_descriptions if car["name"] == car_model), None)
     client_support = {'txid': str(uuid.uuid4()),
                       'rfid': hex(random.getrandbits(96)),
                       'car_model': car_model,
                       'brand': car_brand,
                       'engine': car_engine,
                       'horsepower': car_horsepower,
-                      'purchase_time': datetime.utcnow().isoformat(),
+                      'sell_price': sell_price,
+                      'purchase_time': fake.date_time_between(start_date='-2y', end_date='now').isoformat(),
                       'days': fake.random_int(min=1, max=7),
                       'name': fake.name(),
                       'address': fake.none_or({'street_address': fake.street_address(), 
